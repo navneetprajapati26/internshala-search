@@ -3,7 +3,7 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:internshala_search/bloc/jobs_bloc.dart';
+import 'package:internshala_search/bloc/internships_bloc.dart';
 import 'package:internshala_search/repositories/jobs_repo.dart';
 import 'package:internshala_search/screen/home.dart';
 import 'package:internshala_search/screen/splesh.screen.dart';
@@ -18,9 +18,7 @@ void main() async {
   Hive.registerAdapter(StipendAdapter());
   Hive.registerAdapter(LocationAdapter());
   await Hive.openBox<InternshipResponse>('InternshipResponse');
-  // JobsRepository jobsRepository = JobsRepository();
-  // Response response = await jobsRepository.fetchBlogs();
-  // log(response.internshipResponse.internships.length.toString());
+  
   runApp(const MyApp());
 }
 

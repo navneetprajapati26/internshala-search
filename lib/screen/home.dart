@@ -3,7 +3,7 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../bloc/jobs_bloc.dart';
+import '../bloc/internships_bloc.dart';
 import '../widgets/Shimmer.dart';
 import '../widgets/filters_banner.dart';
 import '../widgets/internships_card.dart';
@@ -16,7 +16,6 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.white,
-
       appBar: AppBar(
         backgroundColor: Colors.white,
         title: TextField(
@@ -45,7 +44,6 @@ class Home extends StatelessWidget {
               return Column(
                 children: [
                   FiltersWidget(state.internships.length.toString()),
-
                   InternshipsLists(
                     internships: state.internships!,
                   ),

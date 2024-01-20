@@ -107,7 +107,6 @@ class JobsRepository {
         l.length.toString() +
         l.toString());
 
-    // Filter the internships where the title matches any of the given titles
 
     return internships
         .where((internship) => companyName.contains(internship.companyName))

@@ -2,7 +2,7 @@ import 'dart:math';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:internshala_search/bloc/jobs_bloc.dart';
+import 'package:internshala_search/bloc/internships_bloc.dart';
 import 'package:internshala_search/screen/filter_screen.dart';
 
 class FiltersWidget extends StatelessWidget {

@@ -5,7 +5,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../bloc/jobs_bloc.dart';
+import '../bloc/internships_bloc.dart';
 import '../models/internship_model.dart';
 import '../widgets/custom_dropdown_search.dart';
 

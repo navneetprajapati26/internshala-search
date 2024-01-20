@@ -21,7 +21,17 @@ class _SpleshScreenState extends State<SpleshScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Icon(Icons.join_inner_rounded,color: Colors.lightBlue,size: 200,),
+
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Icon(Icons.spa_rounded,color: Colors.lightBlue,size: 200,),
+            Text(
+              "Welcome to Internshala search",
+              style: TextStyle(color: Colors.lightBlue,fontWeight: FontWeight.bold,fontSize: 20),
+            )
+          ],
+        ),
       ),
     );
   }
