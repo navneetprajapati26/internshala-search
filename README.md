@@ -2,8 +2,15 @@
 
 A Flutter project.
 
+## [Download the APK file](https://github.com/navneetprajapati26/internshala-search/blob/main/apk/app-release.apk)
 
-- [Download the APK file](https://github.com/navneetprajapati26/internshala-search/blob/main/apk/app-release.apk)
+# Features 
+- I'm using Bloc State management with clean architecture in this app .
+- When user open app first time Checking connectivity and if No Internet show "no connectivity" on screen .
+- Internet is available then calling API and store api response using hive For when Internet is not available 
+- You can filter internship response via "title", "location", "company name", "is remote" .
+
+
 
 # Screenshots
 <p>
