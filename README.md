@@ -1,16 +1,28 @@
 # internshala_search
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- [Download the APK file](https://github.com/navneetprajapati26/internshala-search/blob/main/apk/app-release.apk)
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots
+<p>
+<img src="https://raw.githubusercontent.com/navneetprajapati26/img/WhatsApp Image 2024-01-20 at 11.04.54 PM.jpeg" alt="" width = "250" >
+<img src="https://github.com/navneetprajapati26/internshala-search/blob/main/img/WhatsApp%20Image%202024-01-20%20at%2011.04.55%20PM%20(1).jpeg" alt="" width = "250">
+<img src="https://github.com/navneetprajapati26/internshala-search/blob/main/img/WhatsApp%20Image%202024-01-20%20at%2011.04.55%20PM.jpeg" alt=""width = "250" >
+<img src="" alt="https://github.com/navneetprajapati26/internshala-search/blob/main/img/WhatsApp%20Image%202024-01-20%20at%2011.04.56%20PM%20(1).jpeg"width = "250" >
+<img src="" alt="https://github.com/navneetprajapati26/internshala-search/blob/main/img/WhatsApp%20Image%202024-01-20%20at%2011.04.56%20PM%20(2).jpeg"width = "250" >
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/navneetprajapati26/internshala-search/blob/main/img/WhatsApp%20Image%202024-01-20%20at%2011.04.56%20PM.jpeg" alt=""width = "250" >
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="" alt=""width = "250" >
+
+<img src="" alt=""width = "250" >
+
+<img src="" alt=""width = "250" >
+
+<img src="" alt=""width = "250" >
+
+
+
+</p>
